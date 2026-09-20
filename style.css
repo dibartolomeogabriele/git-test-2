@@ -21,24 +21,13 @@ button {
     color: blue;
 }
 
-#primo passaggio {
-    color: purple;
-}
 
-#secondo passaggio {
-    color: aqua;
-}
-
-#terzo passaggio {
+.passaggi {
     color: brown;
 }
 
-#quarto passaggio {
-    color: coral;
-}
-
-#quinto passaggio {
-    color: darkgoldenrod;
+#logo {
+    color: darkslategray;
 }
 
 main {
