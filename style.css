@@ -42,8 +42,9 @@ button {
 }
 
 main {
-    background-color: white;
+    background-color: red;
     padding: 20px;
+    color: black;
 }
 
 footer {
