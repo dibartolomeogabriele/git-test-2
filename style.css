@@ -1,3 +1,39 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
 }
+
+p {
+    color: green;
+}
+
+button {
+    color: red;
+}
+
+.classe {
+    color: blue;
+}
+
+#primo passaggio {
+    color: purple;
+}
+
+#secondo passaggio {
+    color: aqua;
+}
+
+#terzo passaggio {
+    color: brown;
+}
+
+#quarto passaggio {
+    color: coral;
+}
+
+#quinto passaggio {
+    color: darkgoldenrod;
+}
+
+main {
+    background-color: white;
+}
