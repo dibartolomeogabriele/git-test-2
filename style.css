@@ -37,4 +37,9 @@ button {
 
 main {
     background-color: white;
+    padding: 20px;
+}
+
+footer {
+    padding: 20px;
 }
