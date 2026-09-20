@@ -50,3 +50,8 @@ main {
 footer {
     padding: 20px;
 }
+
+.menu link {
+    text-decoration: none;
+    color: blue;
+}
